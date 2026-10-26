@@ -1,12 +1,12 @@
 # Site settings
-title: "MESGRO - Robotics & Mechatronics Portfolio"
-description: "An open-source template for showcasing robotics and mechatronics projects with 3D models, schematics, and code"
-url: "https://aojedao.github.io"
-baseurl: "/MESGRO"
-author: "Your Name"
-email: "your.email@example.com"
-github_username: "your-github-username"
-linkedin_username: "your-linkedin"
+title: "Kavin – Portfolio"
+description: "Automation and Robotics Engineering projects"
+url: "https://vin4538.github.io"
+baseurl: "/my-portfolio"
+author: "Kavin Hariharamahadevan Pillai"
+email: "kavinp2005@gmail.com"
+github_username: "vin4538"
+linkedin_username: "Kavin Hariharamahadevan Pillai"
 twitter_username: "your-twitter"
 
 # Build settings
